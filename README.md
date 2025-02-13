@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shruti-Uttarkar
-- 👀 I’m interested in Learning
+- 👀 I’m interested in Learning and Exploring new things
 - 🌱 I’m currently learning Full stack python
 - 📫 http://www.linkedin.com/in/shruti-uttarkar-208800304
 
